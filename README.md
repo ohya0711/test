@@ -1,2 +1,3 @@
-# test
-kjoiuhoiu
+import a;
+
+public class b {};
